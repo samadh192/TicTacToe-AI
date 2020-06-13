@@ -5,4 +5,4 @@ An undefeatable tictactoe program written using the mini-max algorithm to observ
 Do 'pip install pygame' before running GUI version.
 
 ### Instructions
-Clone the repo and run 'python3 game-ui.py' for GUI version and 'python3 game-console.py' for console version.
+Clone the repo and run 'python3 main-with-UI.py' for GUI version and 'python3 main-console.py' for console version.
